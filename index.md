@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Blog Day Afternoon"
+  name: "MAP2"
   text: "A VitePress Site"
-  tagline: If you want to read a lot of complaining, you've come to the right place
+  tagline: My great project tagline
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,9 +15,8 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A1
+  - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: https://lbr474.github.io/blog/
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
